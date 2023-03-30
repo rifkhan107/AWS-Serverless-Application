@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://d1.awsstatic.com/diagrams/Serverless_Architecture.d930970c77b382db6e0395198aacccd8a27fefb7.png" alt="project-screenshot" width="800" height="400/">
+<img src="https://d1.awsstatic.com/diagrams/Serverless_Architecture.d930970c77b382db6e0395198aacccd8a27fefb7.png" alt="project-screenshot" width="900" height="400/">
 
 <h2>Technologies Used:</h2>
 <ul>
